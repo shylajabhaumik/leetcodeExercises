@@ -1,13 +1,13 @@
 package leetCode;
 
-public class Exercise1_1523_CountOddNumbers {
+public class Exercise1 {
 	
 	//1523. Count Odd Numbers in an Interval Range
 
 
 	public static void main(String[] args) {
 		
-		Exercise1_1523_CountOddNumbers E1 = new Exercise1_1523_CountOddNumbers();
+		Exercise1 E1 = new Exercise1();
 
 		System.out.println(E1.countOdds(32,52));
 	}
